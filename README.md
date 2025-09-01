@@ -6,6 +6,11 @@
 
 一个基于百度翻译API的Chrome浏览器翻译插件，支持右键快捷翻译和弹出窗口翻译。
 
+## 预览
+<img src="s1.png" width="360" alt="截图1">
+<img src="s2.png" width="360" alt="截图2">
+<img src="s3.png" width="360" alt="截图3">
+
 ## 功能特性
 
 - 🚀 **右键快捷翻译** - 选中文本后右键即可翻译
