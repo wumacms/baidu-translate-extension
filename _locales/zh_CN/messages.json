@@ -1,0 +1,14 @@
+{
+    "appName": {
+        "message": "百度翻译插件",
+        "description": "扩展名称"
+    },
+    "appDesc": {
+        "message": "使用百度翻译API翻译选中的文本",
+        "description": "扩展描述"
+    },
+    "contextMenuTitle": {
+        "message": "翻译: '$1'",
+        "description": "右键菜单标题"
+    }
+}

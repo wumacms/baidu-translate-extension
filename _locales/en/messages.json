@@ -1,0 +1,10 @@
+{
+    "appName": {
+        "message": "Baidu Translate",
+        "description": "Extension name"
+    },
+    "appDesc": {
+        "message": "Translate selected text using Baidu Translate API",
+        "description": "Extension description"
+    }
+}
