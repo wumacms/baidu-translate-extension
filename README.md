@@ -87,10 +87,10 @@ baidu-translate-extension/
 
 ```bash
 # 克隆项目
-git clone <repository-url>
+git clone https://github.com/wumacms/baidu-translate-extension.git
 
-# 安装依赖（如有）
-npm install  # 可选，当前项目无npm依赖
+cd baidu-translate-extension
+
 
 # 加载扩展
 # 1. 打开 chrome://extensions/
