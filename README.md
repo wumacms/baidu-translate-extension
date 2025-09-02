@@ -111,6 +111,7 @@ cd baidu-translate-extension
 - API地址：`https://api.fanyi.baidu.com/api/trans/vip/translate`
 - 请求方式：GET
 - 参数说明：q、from、to、appid、salt、sign
+- [百度翻译API文档](https://api.fanyi.baidu.com/product/113)
 
 ### 扩展API
 
